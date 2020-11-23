@@ -16,5 +16,5 @@ From our queries of the temperature data, we determined the following:
 ## Summary
 The table below shows the results of our queries.  For further analysis we suggest to query both temperature and precipitation for other months during the year.
 
-![image_name](https://github.com/jbates2549/Kickstarter-Analysis/blob/master/Outcome_vs_Goal_Plays.png)
+![image_name](https://github.com/jbates2549/surfs_up/blob/main/temp_analysis.PNG)
 
