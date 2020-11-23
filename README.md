@@ -7,9 +7,9 @@ For this analysis we used Sqlite in Jupyter to analyze a table of weather data f
 ## Analysis
 From our queries of the temperature data, we determined the following:
 
-*  Average temperature was 6 degrees higher in June than in December.
-*  Max temperature for June was 83 degrees, while in December it was 78 degrees.
-*  Min temperature in June was 71 degrees in June, vs. 60 degrees in December.
+*  Average temperature was 3.9 degrees higher in June than in December.
+*  Max temperature for June was 85 degrees, while in December it was 83 degrees.
+*  Min temperature in June was 64 degrees in June, vs. 56 degrees in December.
 *  Overall, the temperatures were in a comfortable range for customers to patronize the shop.
 
 
